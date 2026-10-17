@@ -8,7 +8,10 @@
 
 ## 目录
 
-- 招聘：[选拔方式](qtrecurit/index.md)、[为什么这样选拔](qtrecurit/why.md)
+- 招聘
+  - [选拔方式](qtrecurit/index.md)
+  - [为什么这样选拔](qtrecurit/why.md)
+  - [选拔方式是什么](qtrecurit/what.md)
 
 ## 许可
 
