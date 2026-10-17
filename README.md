@@ -14,6 +14,7 @@
   - [选拔方式是什么](qtrecurit/what.md)
   - [怎么加入公司](qtrecurit/how.md)
   - [在哪里进行](qtrecurit/where.md)
+  - [什么时候进行](qtrecurit/when.md)
 
 ## 许可
 
