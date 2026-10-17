@@ -15,6 +15,7 @@
   - [怎么加入公司](qtrecurit/how.md)
   - [在哪里进行](qtrecurit/where.md)
   - [什么时候进行](qtrecurit/when.md)
+  - [谁在参与](qtrecurit/who.md)
 
 ## 许可
 
