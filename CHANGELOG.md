@@ -8,6 +8,7 @@
 
 - 初始化仓库。
 - 新增《选拔方式》（`qtrecurit/index.md`）。
+- 新增《为什么这样选拔》（`qtrecurit/why.md`）。
 
 ### 变更
 
