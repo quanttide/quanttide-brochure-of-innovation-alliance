@@ -11,6 +11,7 @@
 - 新增《为什么这样选拔》（`qtrecurit/why.md`）。
 - 新增《选拔方式是什么》（`qtrecurit/what.md`）。
 - 新增《怎么加入公司》（`qtrecurit/how.md`），承接共同流程与考核标准。
+- 新增《在哪里进行》（`qtrecurit/where.md`），说明官网、GitHub、飞书三个线上空间。
 
 ### 变更
 
