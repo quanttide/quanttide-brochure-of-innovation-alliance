@@ -4,4 +4,7 @@
 
 ## [Unreleased]
 
+### 新增
+
 - 初始化仓库。
+- 新增《选拔方式》（`qtrecurit/index.md`）。
