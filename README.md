@@ -12,6 +12,7 @@
   - [选拔方式](qtrecurit/index.md)
   - [为什么这样选拔](qtrecurit/why.md)
   - [选拔方式是什么](qtrecurit/what.md)
+  - [怎么加入公司](qtrecurit/how.md)
 
 ## 许可
 
