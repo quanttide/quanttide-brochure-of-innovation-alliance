@@ -14,6 +14,7 @@
 - 新增《在哪里进行》（`qtrecurit/where.md`），说明官网、GitHub、飞书三个线上空间。
 - 新增《什么时候进行》（`qtrecurit/when.md`），说明招聘批次与时间投入。
 - 新增《谁在参与》（`qtrecurit/who.md`），明确鲍宇航为 SVIP 客户。
+- 《选拔方式》重写绪论，增加阅读路径与 5W1H 导航。
 
 ### 变更
 
