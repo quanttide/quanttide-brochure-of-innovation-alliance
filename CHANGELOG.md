@@ -4,6 +4,10 @@
 
 ## [Unreleased]
 
+### 移除
+
+- 《SVIP 特权》移交实训基地第二大脑：`qtacademy/svip.md` 移入 `quanttide-brochure-of-training-base` 的 `default/svip.md`，本仓不再保留。
+
 ### 新增
 
 - 新增《SVIP 特权》（`qtacademy/svip.md`）：说明 SVIP 在实训基地的否决权适用范围与边界。

@@ -16,8 +16,6 @@
   - [怎么加入公司](qtrecurit/how.md)
   - [在哪里进行](qtrecurit/where.md)
   - [什么时候进行](qtrecurit/when.md)
-- 实训基地
-  - [SVIP 特权](qtacademy/svip.md)
 
 ## 许可
 
