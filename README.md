@@ -16,6 +16,9 @@
   - [怎么加入公司](qtrecurit/how.md)
   - [在哪里进行](qtrecurit/where.md)
   - [什么时候进行](qtrecurit/when.md)
+  - [招聘反作弊](qtrecurit/anti-cheating.md)
+  - [如何面试实习生](qtrecurit/interview.md)
+  - [为什么拒绝大部分技术候选人](qtrecurit/tech-sequence.md)
 
 ## 许可
 
